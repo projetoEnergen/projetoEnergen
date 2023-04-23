@@ -6,4 +6,4 @@ EnerGen é um ecommerce que dispõe ao consumidor uma seleção de eletrodomést
 
 <br>
 
-<img align="center" height="150" src="https://ik.imagekit.io/energen/IDENTIDADE_VISUAL/logo_branco_fundo_verde.png?updatedAt=1682205118043" alt="logo da Energen"/>
+<img align="center" height="130" src="https://ik.imagekit.io/energen/IDENTIDADE_VISUAL/logo_branco_fundo_verde.png?updatedAt=1682205118043" alt="logo da Energen"/>
