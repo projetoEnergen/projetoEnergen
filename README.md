@@ -5,5 +5,6 @@
 EnerGen é um ecommerce que dispõe ao consumidor uma seleção de eletrodomésticos que tenham garantia de eficiência energética por meio da troca de itens antigos que não possuem esse desempenho e que muitos consumidores possuem. Nosso propósito é uma ação próxima da população que contribua e coopere com o ecossistema de energia limpa e sustentável.
 
 <br>
+<br>
 
 <img align="center" height="130" src="https://ik.imagekit.io/energen/IDENTIDADE_VISUAL/logo_branco_fundo_verde.png?updatedAt=1682205118043" alt="logo da Energen"/>
